@@ -47,7 +47,7 @@ Open the GitHub repository and create a new Codespace.
 From the repository root, run:
 
 ```bash
-docker compose up --build
+docker compose up --build -d
 ```
 
 This command builds and starts:
